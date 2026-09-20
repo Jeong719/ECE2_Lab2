@@ -1,0 +1,8 @@
+﻿
+# Preserve nested repository history locally
+**/.git-backup/
+
+# Generated simulation files
+build/
+*.vcd
+*.vvp
